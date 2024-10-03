@@ -1,4 +1,4 @@
 # demo
 This is my first Repository
 <br>
-Author  - Rachit kumar Singh
+Author  - Rachit  Singh
